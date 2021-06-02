@@ -18,4 +18,4 @@ elif avg>b:
 elif avg>c:
     print("avg is just higher than c")
 else:
-    print("average is equal")
+    print("average is 20.0")
